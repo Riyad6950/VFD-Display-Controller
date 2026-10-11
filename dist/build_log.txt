@@ -1,0 +1,4 @@
+  Determining projects to restore...
+  All projects are up-to-date for restore.
+  OptimuzVfd7220 -> C:\Users\Admin\Documents\VFD EXE APPPPPPP\src\bin\Release\net8.0-windows\win-x64\OPTIMUZ_VFD7220.dll
+  OptimuzVfd7220 -> C:\Users\Admin\Documents\VFD EXE APPPPPPP\dist\
